@@ -71,3 +71,7 @@ catch up on), you may consider improving the quality in a number of ways:
 ## Submission
 
 Once you finish the assessment please submit only your Gitlab repository URL.
+
+## Source code citing
+https://reactjs.org/docs/faq-ajax.html
+study group Peers
